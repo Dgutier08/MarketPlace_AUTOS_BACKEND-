@@ -1,0 +1,35 @@
+{
+  "name": "marketplace_autos_backend-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagust1992/MarketPlace_AUTOS_BACKEND-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagust1992/MarketPlace_AUTOS_BACKEND-/issues"
+  },
+  "homepage": "https://github.com/fagust1992/MarketPlace_AUTOS_BACKEND-#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^6.15.0",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "morgan-body": "^2.6.8",
+    "pg": "^8.10.0",
+    "postgres": "^3.3.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
